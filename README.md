@@ -1,2 +1,3 @@
 # Taxi-Game
-In this game you are a taxi driver and you can fulfill orders by writing an order, and when you do not have enough fuel, you can go to a gas station and refuel, there is also a balance, and money for orders will be credited to it
+В этой игре вы таксист и можете выполнять заказы, написав заказ, а когда вам не хватает топлива, вы можете поехать на заправку и заправиться, так же есть баланс и деньги за заказы будут начисляться. туда
+
